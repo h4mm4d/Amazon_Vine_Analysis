@@ -17,6 +17,6 @@ The results were so close that I had to check a few times to make sure my formul
 
 
 ## Summary 
-The five-star review percentage point were so close in all cases that I had to check few times before confirming that I got the case right. Number of paid reviews is fairly small compared to rest of the data. However, it is the population, and not sample, we are analyzing there is no margin of error. In this particular case paying for reviews did not play any part.   
+The five-star review percentage point were so close in all cases that I had to check few times before confirming that I got the case right. Number of paid reviews is fairly small compared to rest of the data. However, it is the population, and not just sample, we are analyzing. Therefore, there is no margin of error. In this particular case, paying for reviews did not play any part in raitngs.   
 
 ![](./images/img3.PNG)
